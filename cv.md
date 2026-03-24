@@ -16,12 +16,10 @@ I have developed Windows applications using databases based on MySQL.
 Now I want to focus more on front-end development in order to become a full-stack developer in the future.
 
 ## Skills:
-- **HTML**
-- **CSS**
-- **C#**
-- **C++**
-- **Python**
-- **DataBase**
+- **Frontend:** HTML, CSS (basic)
+- **Programming Languages:** C++, C#, Python
+- **Database:** MySQL
+- **Tools:** Git, GitHub
 
 ## Projects:
 - **Media Archive App** (C#, WinForms, MySQL)  
