@@ -1,5 +1,5 @@
 ## rsschool-cv
-## Artem Filipp
+# Artem Filipp
 
 ## Junior Frontend Developer
 
